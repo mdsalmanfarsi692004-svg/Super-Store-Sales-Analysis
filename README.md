@@ -23,12 +23,12 @@ In the highly competitive retail sector, understanding sales trends, customer be
 ### 1. Main Performance Dashboard
 Provides a macro-level view of total sales, overall profit, and regional breakdowns. It allows users to filter data by year, category, and segment to pinpoint exact performance metrics.
 
-(<img width="1322" height="745" alt="Main" src="https://github.com/user-attachments/assets/67a31c56-dd46-4d75-8e7b-a403a7336898" />)
+<img width="1322" height="745" alt="Main" src="https://github.com/user-attachments/assets/67a31c56-dd46-4d75-8e7b-a403a7336898" />
 
 ### 2. Sales Forecasting Dashboard
 Utilizes advanced predictive analytics to forecast future sales trends based on historical data. This empowers inventory and supply chain managers to prepare for upcoming demand surges.
 
-(<img width="1321" height="742" alt="Forecast" src="https://github.com/user-attachments/assets/7a46c2c4-f65c-4221-9953-2e2d5463bce9" />)
+<img width="1321" height="742" alt="Forecast" src="https://github.com/user-attachments/assets/7a46c2c4-f65c-4221-9953-2e2d5463bce9" />
 
 ---
 
